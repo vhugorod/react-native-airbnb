@@ -14,4 +14,9 @@
  <li>react-redux</li>
  <li>redux</li>
  <li>redux-logger</li>
+<<<<<<< HEAD
  <li>redux-thunk</li>
+=======
+ <li>redux-thunk</li>
+ 
+>>>>>>> 9d5a84c287cd9d1116c225b2f3fbd43eebd53419
