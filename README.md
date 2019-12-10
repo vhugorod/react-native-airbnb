@@ -2,7 +2,7 @@
  Airbnb clone app using React Native & Redux
  
 # How to use
- Clone
+ <li>Clone</li>
  Run npm install in the terminal
  Run on IOS or Android projects in emulator
 
